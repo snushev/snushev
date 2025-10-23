@@ -55,10 +55,13 @@
 
 ## 🚀 Highlighted Projects
 
-### Currency ETL Pipeline 🏗️
+### 🏗️ Currency ETL Pipeline 
 
 Pipeline that Extracts, Transforms and Loads data from API to Postgres DB
+
 🧰 _Tech:_ Requests | Pandas | Pytest | PostgreSQL | Docker
+
+---
 
 ### 🧱 Django REST API Projects
 
