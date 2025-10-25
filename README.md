@@ -55,7 +55,7 @@
 
 ## 🚀 Highlighted Projects
 
-### 🏗️ Currency ETL Pipeline 
+### 🏗️ ETL Pipeline Projects
 
 Pipeline that Extracts, Transforms and Loads data from API to Postgres DB
 
